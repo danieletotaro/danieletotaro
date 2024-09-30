@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danieletotaro
+- 👀 I’m interested in learn to code and computer science
+- 🌱 I’m currently learning python
